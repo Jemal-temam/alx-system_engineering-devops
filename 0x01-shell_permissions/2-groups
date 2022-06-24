@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x groups
+chmodu+x groups
