@@ -1,1 +1,2 @@
-my first shell redirection readme
+Shell I/O Redirection and filtering
+0-hello_world- > Write a script that prints “Hello, World”, followed by a new line to the standard output. 
