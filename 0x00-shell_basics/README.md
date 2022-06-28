@@ -1,1 +1,1 @@
-where am i
+0-current working directory => Write a script that prints the absolute path name of the current working directory
